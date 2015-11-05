@@ -1,3 +1,7 @@
+[user]
+	name = Phil Kelly
+	email = pkelly@xogrp.com
+
 [alias]
 	c = commit -am
 	up = pull
