@@ -6,3 +6,5 @@ for file in ~/.{extra,bash_prompt,exports,aliases,functions,git-completion}; do
     [ -r "$file" ] && source "$file"
 done
 unset file
+
+bind '"\C-t": reverse-search-history'
