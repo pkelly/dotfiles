@@ -1,0 +1,12 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
+  "font_size": 14.0,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "show_full_path": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "word_wrap": true
+}
