@@ -15,6 +15,7 @@
 * `ln -s [dotfiles]/.bash_prompt .bash_prompt`
 * `ln -s [dotfiles]/.aliases .aliases`
 * `ln -s [dotfiles]/.gitconfig .gitconfig`
+* `ln -s [dotfiles]/.gitignore .gitignore`
 * `ln -s [dotfiles]/.irbrc .irbrc`
 * `cp [dotfiles]/.git-completion ~/`
 * Update ~/bash_profile with contents of repo's .bash_profile
