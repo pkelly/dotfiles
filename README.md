@@ -18,3 +18,8 @@
 * `ln -s [dotfiles]/.irbrc .irbrc`
 * `cp [dotfiles]/.git-completion ~/`
 * Update ~/bash_profile with contents of repo's .bash_profile
+
+## Optional setup
+### GitHub App
+
+* `/Applications/GitHub\ Desktop.app/Contents/Resources/git/libexec/git-core/git-config core.excludesfile ~/.gitignore --global` (set global gitignore file )
