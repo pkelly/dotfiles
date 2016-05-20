@@ -6,6 +6,7 @@
 #### installing & using
 
 * `brew install git`
+* `brew install coreutils` for fancy ls colors
 * `brew install gnu-sed --default-names` (for diff-so-fancy)
 * `ln -sf "$(brew --prefix)/share/git-core/contrib/diff-highlight/diff-highlight" /usr/local/bin/diff-highlight`
 * `mkdir ~/bin`
