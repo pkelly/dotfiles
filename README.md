@@ -8,18 +8,19 @@
 * `brew install git`
 * `brew install coreutils` for fancy ls colors
 * `brew install gnu-sed --default-names` (for diff-so-fancy)
-* `ln -sf "$(brew --prefix)/share/git-core/contrib/diff-highlight/diff-highlight" /usr/local/bin/diff-highlight`
+* * Add to .profile `export PATH=$PATH:$HOME/bin`
 * `mkdir ~/bin`
-* Add to .profile `export PATH=$PATH:$HOME/bin`
 * `cd ~/bin`
 * `ln -s [dotfiles]/bin/diff-so-fancy diff-so-fancy`
+* `ln -sf "$(brew --prefix)/share/git-core/contrib/diff-highlight/diff-highlight" diff-highlight`
+* `cd ..`
 * `ln -s [dotfiles]/.bash_prompt .bash_prompt`
 * `ln -s [dotfiles]/.aliases .aliases`
 * `ln -s [dotfiles]/.gitconfig .gitconfig`
 * `ln -s [dotfiles]/.gitignore .gitignore`
 * `ln -s [dotfiles]/.irbrc .irbrc`
-* `cp [dotfiles]/.git-completion ~/`
-* Update ~/bash_profile with contents of repo's .bash_profile
+* `ln -s [dotfiles]/.git-completion .git-completion`
+* Update ~/.bash_profile with contents of repo's .bash_profile
 
 ## Optional setup
 ### GitHub App
