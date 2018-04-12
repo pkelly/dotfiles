@@ -71,6 +71,8 @@ alias gp="git pull"
 alias v="vim"
 alias ungz="gunzip -k"
 alias be="bundle exec"
+alias rs="rails s"
+alias rc="rails c"
 
 # File size
 alias fs="stat -f \"%z bytes\""
