@@ -1,5 +1,10 @@
 {
   "color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
+  "file_exclude_patterns":
+  [
+    "*.log",
+    ".byebug_history"
+  ],
   "font_size": 14.0,
   "ignored_packages":
   [
