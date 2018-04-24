@@ -5,6 +5,7 @@
     "*.log",
     ".byebug_history"
   ],
+  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"],
   "font_size": 14.0,
   "ignored_packages":
   [
