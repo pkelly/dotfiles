@@ -15,12 +15,12 @@
 * `ln -sf "$(brew --prefix)/share/git-core/contrib/diff-highlight/diff-highlight"`
 * `ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"`
 * `cd ..`
-* `ln -s [dotfiles]/.bash_prompt .bash_prompt`
-* `ln -s [dotfiles]/.aliases .aliases`
-* `ln -s [dotfiles]/.gitconfig .gitconfig`
-* `ln -s [dotfiles]/.gitignore .gitignore`
-* `ln -s [dotfiles]/.irbrc .irbrc`
-* `ln -s [dotfiles]/.git-completion .git-completion`
+* `ln -s [dotfiles]/.bash_prompt`
+* `ln -s [dotfiles]/.aliases`
+* `ln -s [dotfiles]/.gitconfig`
+* `ln -s [dotfiles]/.gitignore`
+* `ln -s [dotfiles]/.irbrc`
+* `ln -s [dotfiles]/.git-completion`
 * Update ~/.bash_profile with contents of repo's .bash_profile
 * Update .gitconfig with user info as needed
 
