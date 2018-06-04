@@ -11,9 +11,9 @@
 * * Add to .profile `export PATH=$PATH:$HOME/bin`
 * `mkdir ~/bin`
 * `cd ~/bin`
-* `ln -s [dotfiles]/bin/diff-so-fancy diff-so-fancy`
-* `ln -sf "$(brew --prefix)/share/git-core/contrib/diff-highlight/diff-highlight" diff-highlight`
-* `ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl`
+* `ln -s [dotfiles]/bin/diff-so-fancy`
+* `ln -sf "$(brew --prefix)/share/git-core/contrib/diff-highlight/diff-highlight"`
+* `ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"`
 * `cd ..`
 * `ln -s [dotfiles]/.bash_prompt .bash_prompt`
 * `ln -s [dotfiles]/.aliases .aliases`
