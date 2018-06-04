@@ -23,6 +23,7 @@
 * `ln -s [dotfiles]/.git-completion`
 * Update ~/.bash_profile with contents of repo's .bash_profile
 * Update .gitconfig with user info as needed
+* Copy Sublime/ prefs and keybindings
 
 ## Optional setup
 ### GitHub App
