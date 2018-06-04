@@ -22,6 +22,7 @@
 * `ln -s [dotfiles]/.irbrc .irbrc`
 * `ln -s [dotfiles]/.git-completion .git-completion`
 * Update ~/.bash_profile with contents of repo's .bash_profile
+* Update .gitconfig with user info as needed
 
 ## Optional setup
 ### GitHub App
