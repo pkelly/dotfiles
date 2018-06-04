@@ -27,4 +27,4 @@
 ## Optional setup
 ### GitHub App
 
-* `/Applications/GitHub\ Desktop.app/Contents/Resources/git/libexec/git-core/git-config core.excludesfile ~/.gitignore --global` (set global gitignore file )
+* `/Applications/GitHub\ Desktop.app/Contents/Resources/app/git/libexec/git-core/git-config core.excludesfile ~/.gitignore --global` (set global gitignore file )
