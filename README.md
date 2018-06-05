@@ -24,6 +24,7 @@
 * Update ~/.bash_profile with contents of repo's .bash_profile
 * Update .gitconfig with user info as needed
 * Copy Sublime/ prefs and keybindings
+* Install awesome_print gem in global gemset (.irbrc will load it for Rails console)
 
 ## Optional setup
 ### GitHub App
