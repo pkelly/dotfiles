@@ -23,10 +23,20 @@
 * `ln -s [dotfiles]/.git-completion`
 * Update ~/.bash_profile with contents of repo's .bash_profile
 * Update .gitconfig with user info as needed
-* Copy Sublime/ prefs and keybindings
+
 * Install awesome_print gem in global gemset (.irbrc will load it for Rails console)
 
-## Optional setup
+## Optional app setup
 ### GitHub App
 
 * `/Applications/GitHub\ Desktop.app/Contents/Resources/app/git/libexec/git-core/git-config core.excludesfile ~/.gitignore --global` (set global gitignore file )
+
+### Sublime
+
+* Copy Sublime/ prefs and keybindings
+
+### Spectacle
+
+* Install it
+* Change fullscreen key binding to ctrl-option-command + F
+* Remove center screen key binding
