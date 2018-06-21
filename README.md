@@ -20,6 +20,7 @@
 * `ln -s [dotfiles]/.gitconfig`
 * `ln -s [dotfiles]/.gitignore`
 * `ln -s [dotfiles]/.irbrc`
+* `ln -s [dotfiles]/.pryrc` or add contents if already exists
 * `ln -s [dotfiles]/.git-completion`
 * Update ~/.bash_profile with contents of repo's .bash_profile
 * Update .gitconfig with user info as needed
