@@ -8,3 +8,6 @@ done
 unset file
 
 bind '"\C-t": reverse-search-history'
+
+# forward i-search for bash ctrl-s
+stty -ixon
