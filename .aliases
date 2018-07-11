@@ -73,6 +73,7 @@ alias ungz="gunzip -k"
 alias be="bundle exec"
 alias rs="rails s"
 alias rc="rails c"
+alias h="heroku"
 
 # File size
 alias fs="stat -f \"%z bytes\""
