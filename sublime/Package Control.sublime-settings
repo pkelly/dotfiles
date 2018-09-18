@@ -6,6 +6,8 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Babel",
+		"Emmet",
 		"Git",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
@@ -17,6 +19,7 @@
 		"Origami",
 		"Package Control",
 		"SCSS",
+		"SublimeCodeIntel",
 		"ToggleQuotes"
 	]
 }
