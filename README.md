@@ -35,6 +35,7 @@
 ### Sublime
 
 * Copy Sublime/ prefs and keybindings
+  * Note: command bar shortcuts: `pref: keybindings` and `pref: package` 
 
 ### Spectacle
 
