@@ -21,6 +21,8 @@
 		"Package Control",
 		"SCSS",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"ToggleQuotes"
 	]
 }
