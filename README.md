@@ -8,7 +8,6 @@
 * `brew install git`
 * `brew install coreutils` for fancy ls colors
 * `brew install gnu-sed` (for diff-so-fancy)
-* * Add to .profile `export PATH=$PATH:$HOME/bin`
 * `mkdir ~/bin`
 * `cd ~/bin`
 * `ln -s ~/projects/dotfiles/bin/diff-so-fancy`

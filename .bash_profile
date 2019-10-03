@@ -7,6 +7,8 @@ for file in ~/.{extra,bash_prompt,bashrc,exports,aliases,functions,git-completio
 done
 unset file
 
+export PATH=$PATH:$HOME/bin
+
 bind '"\C-t": reverse-search-history'
 
 # forward i-search for bash ctrl-s
