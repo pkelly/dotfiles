@@ -8,6 +8,7 @@
 * `brew install git`
 * `brew install coreutils` for fancy ls colors
 * `brew install gnu-sed` (for diff-so-fancy)
+* `brew install prettier`
 * `mkdir ~/bin`
 * `cd ~/bin`
 * `ln -s ~/projects/dotfiles/bin/diff-so-fancy`
