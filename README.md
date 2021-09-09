@@ -33,8 +33,9 @@
 
 ### Sublime
 
-* Copy Sublime/ prefs and keybindings
-  * Note: command bar shortcuts: `pref: keybindings` and `pref: package` 
+* Copy Sublime preferences, key bindings, and packages
+  * Note: command bar shortcuts: `Preferences: Key Bindings` and `Preferences: Package Control Settings`
+  * Another note: after copying `Package Control.sublime-settings` file packages will automatically install on Sublime restart
 
 ### Spectacle
 
