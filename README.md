@@ -39,6 +39,11 @@
   * Note: command bar shortcuts: `Preferences: Key Bindings` and `Preferences: Package Control Settings`
   * Another note: after copying `Package Control.sublime-settings` file packages will automatically install on Sublime restart
 
+### VS Code
+
+* Install Sublime keybindings extension
+* Add shortcut for Reveal Active file in Sidebar: command-ctrl-R
+
 ### Spectacle
 
 * Install it
