@@ -24,6 +24,7 @@
 * `ln -s ~/projects/dotfiles/.git-completion`
 * Update ~/.bash_profile with contents of repo's .bash_profile
 * Update .gitconfig with user info as needed
+* Set Bash as default shell `chsh -s /bin/bash`
 
 * Install awesome_print gem in global gemset (.irbrc will load it for Rails console)
 
