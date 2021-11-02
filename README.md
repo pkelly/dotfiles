@@ -43,6 +43,7 @@
 
 * Install Sublime keybindings extension
 * Add shortcut for Reveal Active file in Sidebar: command-ctrl-R
+* Install `code` terminal command
 
 ### Spectacle
 
