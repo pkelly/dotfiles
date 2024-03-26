@@ -45,8 +45,9 @@
 * Add shortcut for Reveal Active file in Sidebar: command-ctrl-R
 * Install `code` terminal command
 
-### Spectacle
+### Rectangle
 
-* Install it
+* Install it - https://rectangleapp.com/
+* Choose Spectacle key bindings
 * Change fullscreen key binding to ctrl-option-command + F
 * Remove center screen key binding
