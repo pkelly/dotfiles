@@ -54,5 +54,5 @@
 
 * Install it - https://rectangleapp.com/
 * Choose Spectacle key bindings
-* Change fullscreen key binding to ctrl-option-command + F
+* ? Change fullscreen key binding to ctrl-option-command + F
 * Remove center screen key binding
