@@ -5,6 +5,7 @@
 ## Setup
 #### installing & using
 
+* Set Bash as default shell `chsh -s /bin/bash`
 * `brew install git`
 * `brew install coreutils` for fancy ls colors
 * `brew install gnu-sed` (for diff-so-fancy)
@@ -15,16 +16,17 @@
 * `ln -sf "$(brew --prefix)/share/git-core/contrib/diff-highlight/diff-highlight"`
 * `ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"` (if using Sublime)
 * `cd ..`
-* `ln -s ~/projects/dotfiles/.bash_prompt`
-* `ln -s ~/projects/dotfiles/.aliases`
-* `ln -s ~/projects/dotfiles/.gitconfig`
-* `ln -s ~/projects/dotfiles/.gitignore`
-* `ln -s ~/projects/dotfiles/.irbrc`
-* `ln -s ~/projects/dotfiles/.pryrc` or add contents if already exists
-* `ln -s ~/projects/dotfiles/.git-completion`
+* ```
+  ln -s ~/projects/dotfiles/.bash_prompt
+  ln -s ~/projects/dotfiles/.aliases
+  ln -s ~/projects/dotfiles/.gitconfig
+  ln -s ~/projects/dotfiles/.gitignore
+  ln -s ~/projects/dotfiles/.irbrc
+  ln -s ~/projects/dotfiles/.pryrc
+  ln -s ~/projects/dotfiles/.git-completion
+  ```
 * Update ~/.bash_profile with contents of repo's .bash_profile
 * Update .gitconfig with user info as needed
-* Set Bash as default shell `chsh -s /bin/bash`
 
 * Install awesome_print gem in global gemset (.irbrc will load it for Rails console)
 
