@@ -10,6 +10,7 @@
 * `brew install coreutils` for fancy ls colors
 * `brew install gnu-sed` (for diff-so-fancy)
 * `brew install prettier`
+* `brew install rbenv ruby-build`
 * `mkdir ~/bin`
 * `cd ~/bin`
 * `ln -s ~/projects/dotfiles/bin/diff-so-fancy`
@@ -46,6 +47,8 @@
 * Install Sublime keybindings extension
 * Add shortcut for Reveal Active file in Sidebar: command-ctrl-R
 * Install `code` terminal command
+  <img width="642" alt="image" src="https://github.com/pkelly/dotfiles/assets/44373/71030584-3c22-47b2-be19-fda96008cf70">
+
 
 ### Rectangle
 
