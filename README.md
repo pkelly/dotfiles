@@ -54,11 +54,15 @@
   }
   ```
 * Install `code` terminal command
+  
   <img width="642" alt="image" src="https://github.com/pkelly/dotfiles/assets/44373/71030584-3c22-47b2-be19-fda96008cf70">
 * Set Focus Editor Group (Above|Below|Right|Left) shortcuts
+  
   ![image](https://github.com/pkelly/dotfiles/assets/44373/d4de573b-276f-418b-8b74-bdbe7480aa19)
 * Install Extensions
-* * 
+  * Sublime Text Keymap and Settings Importer
+  * Toggle Quotes
+  * Material Icon Theme
 
 
 
